@@ -5,3 +5,5 @@ The type definition and example is coming from <https://launchpad.graphql.com/1j
 Deploy via `now` (see <https://zeit.co>).
 
 Run locally via `yarn dev`.
+
+
